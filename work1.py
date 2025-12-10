@@ -10,3 +10,14 @@ def mul(x,y):
     return x*y
 def div(x,y):
     return x/y
+
+def mod(x,y):
+    return x%y
+def exp(x,y):
+    return x**y
+def floordiv(x,y):
+    return x//y
+def add(x,y):
+    return x+y
+def square(x):
+    return x*x
